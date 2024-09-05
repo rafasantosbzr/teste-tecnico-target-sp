@@ -19,4 +19,4 @@ function somaTotal(indice) {
 }
 
 //embora o enunciado leve a pensar que o indice deve ser um const, resolvi informar ele de forma manual, a fim de ser possivel testar o codigo com outros valores de indice
-console.log(somaTotal(13));
+console.log(somaTotal(13)); //resposta = 91
